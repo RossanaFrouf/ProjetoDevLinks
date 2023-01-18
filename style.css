@@ -81,7 +81,7 @@ body * {
 }
 
 .light #switch button {
-  animation: slide-in 0.4s forwards;
+  animation: slide-in 0.2s forwards;
 }
 
 #switch button:hover{
@@ -159,7 +159,7 @@ ul li a:hover {
 }
 
 footer {
-  padding: 24px;
+  padding: 24px 0;
   text-align: center;
   font-size: 14px;
 }
